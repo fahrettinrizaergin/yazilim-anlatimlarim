@@ -54,4 +54,4 @@ Bu daha başlangıç! Birlikte React'in harika dünyasını keşfedeceğiz. Comp
 Hadi birlikte öğrenmeye devam edelim! 🌟
 
 Diğer derslere de bakabilirsiniz:
-- [ReactJS Router Kurulumu](https://github.com/fahrettinrizaergin/setup-reactjs-router-dom.md)
+- [ReactJS Router Kurulumu]([https://github.com/fahrettinrizaergin/setup-reactjs-router-dom.md](https://github.com/fahrettinrizaergin/yazilim-anlatimlarim/blob/main/setup-reactjs-router-dom.md))
