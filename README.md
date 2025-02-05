@@ -55,3 +55,5 @@ Hadi birlikte öğrenmeye devam edelim! 🌟
 
 Diğer derslere de bakabilirsiniz:
 - [ReactJS Router Kurulumu](https://github.com/fahrettinrizaergin/yazilim-anlatimlarim/blob/main/setup-reactjs-router-dom.md)
+- [ReactJS Component Kullanımı](https://github.com/fahrettinrizaergin/yazilim-anlatimlarim/blob/main/react-components.md)
+- [ReactJS Layout Kullanımı](https://github.com/fahrettinrizaergin/yazilim-anlatimlarim/blob/main/react-layouts.md)
