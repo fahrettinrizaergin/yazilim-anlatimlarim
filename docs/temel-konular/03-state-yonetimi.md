@@ -112,6 +112,100 @@ function TemaButonu() {
 
 ## Global State Yönetimi
 
+### Zustand
+Zustand, React uygulamaları için basit, hızlı ve ölçeklenebilir bir durum yönetim çözümüdür.
+
+#### Kurulum
+```bash
+npm install zustand
+```
+
+#### Temel Store Oluşturma
+```jsx
+import create from 'zustand'
+
+const useStore = create((set) => ({
+  sayac: 0,
+  artir: () => set((state) => ({ sayac: state.sayac + 1 })),
+  azalt: () => set((state) => ({ sayac: state.sayac - 1 })),
+  sifirla: () => set({ sayac: 0 })
+}))
+```
+
+#### Store Kullanımı
+```jsx
+function SayacBilesen() {
+  const { sayac, artir, azalt, sifirla } = useStore()
+
+  return (
+    <div>
+      <h1>{sayac}</h1>
+      <button onClick={artir}>+</button>
+      <button onClick={azalt}>-</button>
+      <button onClick={sifirla}>Sıfırla</button>
+    </div>
+  )
+}
+```
+
+#### Async Actions
+```jsx
+const useStore = create((set) => ({
+  kullanicilar: [],
+  yuklenıyor: false,
+  hata: null,
+  kullanicilariGetir: async () => {
+    set({ yuklenıyor: true })
+    try {
+      const response = await fetch('https://api.example.com/users')
+      const kullanicilar = await response.json()
+      set({ kullanicilar, yuklenıyor: false })
+    } catch (hata) {
+      set({ hata, yuklenıyor: false })
+    }
+  }
+}))
+```
+
+#### Store'u Parçalara Ayırma
+```jsx
+const useStore = create((set) => ({
+  // Kullanıcı state'i
+  kullanici: null,
+  girisYap: (kullanici) => set({ kullanici }),
+  cikisYap: () => set({ kullanici: null }),
+
+  // Sepet state'i
+  sepet: [],
+  urunEkle: (urun) => 
+    set((state) => ({ 
+      sepet: [...state.sepet, urun] 
+    })),
+  urunCikar: (urunId) =>
+    set((state) => ({
+      sepet: state.sepet.filter(urun => urun.id !== urunId)
+    }))
+}))
+```
+
+#### Middleware Kullanımı
+```jsx
+import { persist } from 'zustand/middleware'
+
+const useStore = create(
+  persist(
+    (set) => ({
+      sayac: 0,
+      artir: () => set((state) => ({ sayac: state.sayac + 1 }))
+    }),
+    {
+      name: 'sayac-store', // localStorage'da kullanılacak isim
+      getStorage: () => localStorage // storage tipi
+    }
+  )
+)
+```
+
 ### Custom Hook ile State Yönetimi
 ```jsx
 function useGlobalState(key, initialValue) {
