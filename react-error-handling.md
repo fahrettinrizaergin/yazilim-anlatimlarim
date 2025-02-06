@@ -2,7 +2,7 @@
 
 ## Giriş 🎯
 
-Merhaba arkadaşlar! Bu yazımızda React uygulamalarında hata yönetiminin nasıl yapılacağını, kullanıcı dostu hata mesajlarının nasıl gösterileceğini ve yaygın hata senaryolarıyla nasıl başa çıkılacağını öğreneceğiz. Hadi başlayalım! 💪
+Bu yazımızda React uygulamalarında hata yönetiminin nasıl yapılacağını, kullanıcı dostu hata mesajlarının nasıl gösterileceğini ve yaygın hata senaryolarıyla nasıl başa çıkılacağını öğreneceğiz. Hadi başlayalım! 💪
 
 ## Try-Catch ile Temel Hata Yönetimi 🔍
 

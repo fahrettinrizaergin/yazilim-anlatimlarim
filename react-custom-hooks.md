@@ -2,7 +2,7 @@
 
 ## Custom Hook Nedir? 🤔
 
-Merhaba arkadaşlar! Bugün React'in en güzel özelliklerinden biri olan Custom Hooks'u öğreneceğiz. Custom Hook'lar, React component'lerimizde kullandığımız mantığı tekrar kullanılabilir fonksiyonlara dönüştürmemizi sağlar.
+React'in en güzel özelliklerinden biri olan Custom Hooks'u öğreneceğiz. Custom Hook'lar, React component'lerimizde kullandığımız mantığı tekrar kullanılabilir fonksiyonlara dönüştürmemizi sağlar.
 
 ## Neden Custom Hook Kullanmalıyız? 🎯
 

@@ -2,7 +2,7 @@
 
 ## Giriş 🌟
 
-Merhaba arkadaşlar! Bu yazımızda React uygulamalarında stil yönetiminin farklı yaklaşımlarını inceleyeceğiz. CSS Modules, Styled Components ve Tailwind CSS gibi popüler çözümleri ele alacak ve her birinin avantajlarını örneklerle göreceğiz. Hadi başlayalım! 💪
+React uygulamalarında stil yönetiminin farklı yaklaşımlarını inceleyeceğiz. CSS Modules, Styled Components ve Tailwind CSS gibi popüler çözümleri ele alacak ve her birinin avantajlarını örneklerle göreceğiz. Hadi başlayalım! 💪
 
 ## CSS Modules: Modüler ve İzole Stiller 📦
 

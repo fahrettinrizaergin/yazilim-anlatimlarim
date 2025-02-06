@@ -2,7 +2,7 @@
 
 ## Form İşlemlerine Giriş 🎯
 
-Merhaba arkadaşlar! Bugün React'te form işlemlerinin nasıl yapıldığını ve iki önemli yaklaşım olan Controlled ve Uncontrolled component'leri inceleyeceğiz. Bu konuyu günlük hayattan örneklerle, dostane bir şekilde ele alacağız! 🤗
+Bugün React'te form işlemlerinin nasıl yapıldığını ve iki önemli yaklaşım olan Controlled ve Uncontrolled component'leri inceleyeceğiz. Bu konuyu günlük hayattan örneklerle, dostane bir şekilde ele alacağız! 🤗
 
 ## Controlled Components (Kontrollü Bileşenler) 🎮
 

@@ -2,7 +2,7 @@
 
 ## Giriş 🎯
 
-Merhaba arkadaşlar! Bu yazımızda React uygulamalarında çok önemli bir performans optimizasyon tekniği olan Code Splitting (Kod Bölme) konusunu ele alacağız. Büyük uygulamaları nasıl daha hızlı ve verimli hale getirebileceğimizi öğreneceğiz. Hadi başlayalım! 💪
+React uygulamalarında çok önemli bir performans optimizasyon tekniği olan Code Splitting (Kod Bölme) konusunu ele alacağız. Büyük uygulamaları nasıl daha hızlı ve verimli hale getirebileceğimizi öğreneceğiz. Hadi başlayalım! 💪
 
 ## Code Splitting Nedir? 🤔
 

@@ -1,8 +1,6 @@
 # React Component'leri Öğreniyoruz! 🎨
 
-Merhaba sevgili arkadaşlar! 👋
-
-Bugün sizlerle birlikte React'in en temel yapı taşlarından biri olan Component'leri öğreneceğiz. Hiç endişelenmeyin, her şeyi adım adım, dostça bir şekilde anlatacağım!
+React'in en temel yapı taşlarından biri olan Component'leri öğreneceğiz. Hiç endişelenmeyin, her şeyi adım adım, dostça bir şekilde anlatacağım!
 
 ## 🌟 Component Nedir?
 

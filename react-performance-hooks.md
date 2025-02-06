@@ -2,7 +2,7 @@
 
 ## Giriş 🎯
 
-Merhaba arkadaşlar! Bu yazımızda React'in performans optimizasyonu için sunduğu iki önemli hook'u, useMemo ve useCallback'i inceleyeceğiz. Bu hook'lar sayesinde uygulamalarımızı nasıl daha verimli hale getirebileceğimizi öğreneceğiz. Hadi başlayalım! 💪
+Bu yazımızda React'in performans optimizasyonu için sunduğu iki önemli hook'u, useMemo ve useCallback'i inceleyeceğiz. Bu hook'lar sayesinde uygulamalarımızı nasıl daha verimli hale getirebileceğimizi öğreneceğiz. Hadi başlayalım! 💪
 
 ## Memoization Nedir? 🤔
 

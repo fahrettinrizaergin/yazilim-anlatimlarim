@@ -2,7 +2,7 @@
 
 ## Giriş 🎯
 
-Merhaba değerli geliştirici arkadaşlarım! Bugün React'te form state yönetimini derinlemesine inceleyeceğiz. Karmaşık formları nasıl yönetebileceğimizi, pratik örneklerle ve dostane bir yaklaşımla ele alacağız. 🤗
+Bugün React'te form state yönetimini derinlemesine inceleyeceğiz. Karmaşık formları nasıl yönetebileceğimizi, pratik örneklerle ve dostane bir yaklaşımla ele alacağız. 🤗
 
 ## Temel Form State Yönetimi 🌱
 

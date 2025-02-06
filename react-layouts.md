@@ -2,7 +2,7 @@
 
 Merhaba sevgili arkadaşlar! 👋
 
-Bugün sizlerle birlikte React uygulamalarında layout (düzen) mantığını öğreneceğiz. Hiç korkmayın, her şeyi en basit haliyle ve örneklerle anlatacağım!
+React uygulamalarında layout (düzen) mantığını öğreneceğiz. Hiç korkmayın, her şeyi en basit haliyle ve örneklerle anlatacağım!
 
 ## 🌟 Layout Nedir?
 

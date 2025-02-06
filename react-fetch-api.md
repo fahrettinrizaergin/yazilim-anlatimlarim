@@ -2,7 +2,7 @@
 
 ## Giriş 🎯
 
-Merhaba arkadaşlar! Bu yazımızda React uygulamalarında API isteklerini nasıl yapacağımızı ve Fetch API'yi nasıl etkili bir şekilde kullanacağımızı öğreneceğiz. Hadi başlayalım! 💪
+Bu yazımızda React uygulamalarında API isteklerini nasıl yapacağımızı ve Fetch API'yi nasıl etkili bir şekilde kullanacağımızı öğreneceğiz. Hadi başlayalım! 💪
 
 ## Fetch API Nedir? 🤔
 

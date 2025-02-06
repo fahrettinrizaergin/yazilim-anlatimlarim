@@ -2,7 +2,7 @@
 
 ## Giriş 🎯
 
-Merhaba arkadaşlar! Bugün React'te form işlemlerini çok daha kolay ve etkili bir şekilde yönetmemizi sağlayan `useForm` hook'unu inceleyeceğiz. Bu hook, react-hook-form kütüphanesinin bir parçası olup, form yönetimini oldukça basitleştiriyor. Hadi başlayalım! 🚀
+Bugün React'te form işlemlerini çok daha kolay ve etkili bir şekilde yönetmemizi sağlayan `useForm` hook'unu inceleyeceğiz. Bu hook, react-hook-form kütüphanesinin bir parçası olup, form yönetimini oldukça basitleştiriyor. Hadi başlayalım! 🚀
 
 ## react-hook-form Nedir? 🤔
 

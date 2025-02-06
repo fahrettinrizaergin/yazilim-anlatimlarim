@@ -1,8 +1,6 @@
 # ReactJS'e Hoş Geldiniz! 🚀
 
-Merhaba sevgili arkadaşlar! 👋
-
-Bugün sizlerle birlikte ReactJS dünyasına keyifli bir yolculuğa çıkacağız. React, modern web uygulamaları geliştirmek için kullanılan güçlü bir JavaScript kütüphanesidir. Hiç endişelenmeyin, her şeyi adım adım, dostça bir şekilde anlatacağım. Hadi başlayalım!
+ReactJS dünyasına keyifli bir yolculuğa çıkacağız. React, modern web uygulamaları geliştirmek için kullanılan güçlü bir JavaScript kütüphanesidir. Hiç endişelenmeyin, her şeyi adım adım, dostça bir şekilde anlatacağım. Hadi başlayalım!
 
 ## 🛠 Projemizi Kuralım
 

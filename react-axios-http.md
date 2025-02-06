@@ -2,7 +2,7 @@
 
 ## Giriş 🎯
 
-Merhaba arkadaşlar! Bu yazımızda React uygulamalarında Axios kullanarak HTTP isteklerini nasıl yapacağımızı ve veri yönetimini nasıl gerçekleştireceğimizi öğreneceğiz. Axios, HTTP istekleri için Fetch API'ye güçlü bir alternatif sunan popüler bir kütüphanedir. Hadi başlayalım! 💪
+Bu yazımızda React uygulamalarında Axios kullanarak HTTP isteklerini nasıl yapacağımızı ve veri yönetimini nasıl gerçekleştireceğimizi öğreneceğiz. Axios, HTTP istekleri için Fetch API'ye güçlü bir alternatif sunan popüler bir kütüphanedir. Hadi başlayalım! 💪
 
 ## Axios Nedir? 🤔
 

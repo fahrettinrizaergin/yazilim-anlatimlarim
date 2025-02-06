@@ -1,8 +1,6 @@
 # React Router DOM Kurulumu ve Kullanımı 🚀
 
-Merhaba arkadaşlar! 👋
-
-Bugün sizlerle birlikte React uygulamalarında sayfa yönetimini sağlayan React Router DOM'u öğreneceğiz. Hiç endişelenmeyin, her şeyi adım adım, dostça bir şekilde anlatacağım!
+React uygulamalarında sayfa yönetimini sağlayan React Router DOM'u öğreneceğiz. Hiç endişelenmeyin, her şeyi adım adım, dostça bir şekilde anlatacağım!
 
 ## 📦 Kurulum
 
@@ -11,7 +9,7 @@ Bugün sizlerle birlikte React uygulamalarında sayfa yönetimini sağlayan Reac
 ```bash
 npm install react-router-dom
 ```
-
+ 
 ## 🛠 Temel Kullanım
 
 ### 1. Router'ı Projeye Ekleyelim

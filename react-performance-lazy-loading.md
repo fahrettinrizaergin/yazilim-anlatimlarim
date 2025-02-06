@@ -2,7 +2,7 @@
 
 ## Giriş 🎯
 
-Merhaba arkadaşlar! Bu yazımızda React'te performans optimizasyonunun önemli bir parçası olan "Lazy Loading" (Tembel Yükleme) konusunu ele alacağız. Büyük uygulamalarda tüm kodu bir seferde yüklemek yerine, ihtiyaç duyulduğunda yükleme yaparak uygulamamızı nasıl daha hızlı ve verimli hale getirebileceğimizi öğreneceğiz. 💪
+React'te performans optimizasyonunun önemli bir parçası olan "Lazy Loading" (Tembel Yükleme) konusunu ele alacağız. Büyük uygulamalarda tüm kodu bir seferde yüklemek yerine, ihtiyaç duyulduğunda yükleme yaparak uygulamamızı nasıl daha hızlı ve verimli hale getirebileceğimizi öğreneceğiz. 💪
 
 ## Lazy Loading Nedir? 🤔
 

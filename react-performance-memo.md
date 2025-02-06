@@ -2,7 +2,7 @@
 
 ## Giriş 🎯
 
-Merhaba arkadaşlar! Bugün React uygulamalarımızı daha performanslı hale getirmek için kullanabileceğimiz önemli bir özelliği, React.memo'yu inceleyeceğiz. Gereksiz render'ları önleyerek uygulamamızın performansını nasıl artırabileceğimizi öğreneceğiz. Hadi başlayalım! 💪
+React uygulamalarımızı daha performanslı hale getirmek için kullanabileceğimiz önemli bir özelliği, React.memo'yu inceleyeceğiz. Gereksiz render'ları önleyerek uygulamamızın performansını nasıl artırabileceğimizi öğreneceğiz. Hadi başlayalım! 💪
 
 ## React.memo Nedir? 🤔
 

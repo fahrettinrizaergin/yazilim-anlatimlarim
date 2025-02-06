@@ -2,7 +2,7 @@
 
 ## HOC Nedir? 🤔
 
-Merhaba arkadaşlar! Bugün React'in süper güçlerinden biri olan Higher Order Components (HOC) konusunu ele alacağız. HOC'ler, component'lerimizi sarmalayarak onlara yeni özellikler kazandıran fonksiyonlardır. Düşünün ki bir süper kahraman pelerini gibi - normal bir component'i sarıp ona ekstra güçler veriyor! 🦸‍♂️
+Bugün React'in süper güçlerinden biri olan Higher Order Components (HOC) konusunu ele alacağız. HOC'ler, component'lerimizi sarmalayarak onlara yeni özellikler kazandıran fonksiyonlardır. Düşünün ki bir süper kahraman pelerini gibi - normal bir component'i sarıp ona ekstra güçler veriyor! 🦸‍♂️
 
 ## HOC'nin Temel Yapısı 📝
 

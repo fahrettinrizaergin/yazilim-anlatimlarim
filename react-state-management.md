@@ -1,8 +1,6 @@
 # React State Yönetimi ve Zustand Karşılaştırması! 🎯
 
-Merhaba sevgili arkadaşlar! 👋
-
-Bugün sizlerle birlikte React'in kendi state yönetimi ve Zustand state yönetim kütüphanesini karşılaştıracağız. Hiç endişelenmeyin, her şeyi en basit haliyle ve örneklerle anlatacağım!
+React'in kendi state yönetimi ve Zustand state yönetim kütüphanesini karşılaştıracağız. Hiç endişelenmeyin, her şeyi en basit haliyle ve örneklerle anlatacağım!
 
 ## 🌟 React'in useState Hook'u
 

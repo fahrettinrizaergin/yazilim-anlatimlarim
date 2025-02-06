@@ -2,7 +2,7 @@
 
 ## Form Validasyonuna Giriş 📝
 
-Merhaba arkadaşlar! Bugün React'te form validasyonunun nasıl yapıldığını, farklı validasyon yöntemlerini ve best practice'leri inceleyeceğiz. Haydi başlayalım! 🚀
+Bugün React'te form validasyonunun nasıl yapıldığını, farklı validasyon yöntemlerini ve best practice'leri inceleyeceğiz. Haydi başlayalım! 🚀
 
 ## HTML5 Yerleşik Validasyon 🌟
 
